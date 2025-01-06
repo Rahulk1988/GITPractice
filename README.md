@@ -1,6 +1,6 @@
 # Learning Devops
 ## New Learning
 **Topics covered**
-Linux 
-Git and Git hub
+1. Linux 
+2. Git and Git hub
 New topics will be updated as it is covered 
