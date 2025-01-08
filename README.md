@@ -6,4 +6,6 @@
 3. Docker
 4. Terrafom
 5. Ansible
-6. Triya
+6. Kubernets
+7. Triya
+
