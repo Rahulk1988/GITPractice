@@ -6,4 +6,4 @@
 3. Docker
 4. Terrafom
 5. Ansible
-6. X-Ray
+6. Triya
