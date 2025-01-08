@@ -7,3 +7,5 @@
 4. Terrafom
 5. Ansible
 6. Kubernets
+7. Triya
+
